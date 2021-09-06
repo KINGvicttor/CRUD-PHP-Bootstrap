@@ -1,0 +1,31 @@
+div.container{
+    position: fixed;
+    width: 700px;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+
+a.edit, a.delete, a.add{
+    position: relative;
+    display: inline-block;
+    align-content: center;
+    left: 25%;
+}
+
+a.pg{
+    text-decoration: none;
+    color: black;
+}
+
+a.pg:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+div.btn-toolbar{
+    position: relative;
+    left: 35%;
+}
